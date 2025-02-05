@@ -1,3 +1,6 @@
+title: Sonarly App Privacy Policy
+layout: default
+
 # Privacy Policy for Sonarly App
 
 **Last updated:** February 5, 2025
